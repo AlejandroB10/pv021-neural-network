@@ -1,0 +1,20 @@
+# Dataset — 149 MB, restored from the original course archive
+data/*.csv
+
+# Build artifacts
+src/**/*.class
+out/
+target/
+build/
+network
+*.exe
+
+# Model output (regenerated on every run)
+train_predictions.csv
+test_predictions.csv
+
+# OS / tooling
+.DS_Store
+__MACOSX/
+.venv/
+__pycache__/
