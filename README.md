@@ -1,4 +1,4 @@
-put your UČOs (and names) on this line (no exact format required)
+596461 Alejandro Bordón  |  <UČO del compañero> <nombre>
 ## PV021 project -- Deep Learning from Scratch
 
 ### DEADLINE
